@@ -3,7 +3,7 @@ Web-based real-time object detection for YOLO model.
 
 This project is a web-based application that utilizes real-time object detection to identify and label objects within an image or video stream. It is built using Next.js, ONNXRuntime, YOLOv7, and YOLOv10 model.
 
-## Demo at [RTOD]([https://shanmukhrtod.vercel.app/])
+## Demo at <a href="https://shanmukhrtod.vercel.app/" target="_blank">RTOD</a>
 
 ## Getting Started
 
